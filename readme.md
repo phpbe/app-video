@@ -11,11 +11,7 @@
 
     composer create-project be/new
 
-### 2 安装 be/app-shop
+### 2 安装 be/app-video
 
     composer require be/app-video
 
-
-
-
-## 部件
